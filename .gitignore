@@ -1,0 +1,56 @@
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer files (for debugging)
+.vs2019/
+.vs2022/
+
+# User-specific files
+.vs/
+.vscode/
+.idea/
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]ist/
+[Dd]istros/
+[Dd]ebug/
+[Dd]ebug-x64/
+[Dd]ebug-x86/
+[Dd]Release/
+[Dd]Release-x64/
+[Dd]Release-x86/
+bin/
+obj/
+
+# User-generated files
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# JetBrains Rider files
+.idea/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
